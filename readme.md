@@ -2,8 +2,9 @@
 
 ### ¿Qué es esto?
 
-Este repositorio hace referencia a la guía paso a paso publicada en http://fuubar.wordpress.com y contiene los
-archivos que fueron utilizados en ese ejemplo.
+Este repositorio hace referencia a la guía paso a paso publicada en 
+http://fuubar.wordpress.com/2013/06/27/sistema-de-identificacion-simple-en-laravel-4/ 
+y contiene los archivos que fueron utilizados en ese ejemplo.
 
 ### Pasos a seguir
 
